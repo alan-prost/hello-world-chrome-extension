@@ -4,7 +4,7 @@
 
     <!-- The version attribute represent the latest version available for the extension. -->
     <!-- The browser use this value to auto-update the extension. -->
-    <updatecheck codebase='https://jolly-field-0cc2da61e.4.azurestaticapps.net/hello-world-chrome-extension.crx'
+    <updatecheck codebase='https://azure-static-web-apps-lively-pond-034138810.yml/hello-world-chrome-extension.crx'
                   version='1.0.0' />
   </app>
 </gupdate>
