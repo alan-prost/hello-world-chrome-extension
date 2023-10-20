@@ -9,5 +9,6 @@
     "default_popup": "index.html"
   },
   "permissions": ["tabs"],
+  "update_url": "https://lively-pond-034138810.4.azurestaticapps.net/updates.xml",
   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7pidObwO3i5liPukj8a/sGAwCBybU4QmVamkf7Ch1MRWoVdmSpYf6ipwFjveSHZdowM6r4kk9833nWboXDEzpQ5eJZih5KlCUr+WDfL5BsQuOXiaWktMyP2Si9UuukNG3p0wWAnNm2rdKVX6L4TXowUmVeUovF0p0SgwTzAiqe7yeXEMbqYeulun8M/T5XKsjUsR3NjWfEgDsRnAsPxBpNOozt/F/QIgQfaR7gIA+09Rqx3rBBbxcTGI7Lyol1V72L1kj9VlxPOwHACACswb0QnmvST8iUbK7OpTpZw6KEemI0mef6hRkELyEXy2L6ulY7Gxe2UFac+EiXy6ihrL8wIDAQAB"
 }
