@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='eaencgmpfeobjhocddofhmfmhmgmkphn'>
+
+    <!-- The version attribute represent the latest version available for the extension. -->
+    <!-- The browser use this value to auto-update the extension. -->
+    <updatecheck codebase='https://jolly-field-0cc2da61e.4.azurestaticapps.net/hello-world-chrome-extension.crx'
+                  version='1.0.0' />
+  </app>
+</gupdate>
