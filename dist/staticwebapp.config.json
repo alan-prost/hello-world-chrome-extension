@@ -1,8 +1,8 @@
 {
   "mimeTypes": {
-    ".crx": "application/x-chrome-extension"
+    ".crx": "application/octet-stream"
   },
   "globalHeaders": {
-    "X-Content-Type-Options": "application/octet-stream"
+    "X-Content-Type-Options": ""
   }
 }
